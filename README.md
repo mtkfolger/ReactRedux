@@ -4,7 +4,7 @@
 >This application was an opportunity to refactor an existing ecommerce app to utilize Redux.
 
 **Screenshot of Application**
->
+>![snip 1](https://user-images.githubusercontent.com/84151997/140462013-f1641a35-eba1-42f9-b544-d0f19eea3fd3.JPG)
 
 **Link to Deployed Application**
 > To view the application <a href="https://react-redux-shop-shop.herokuapp.com/">click here!</a>
